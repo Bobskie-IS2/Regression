@@ -15,56 +15,39 @@ namespace Bobskie_Regression
         private (double[][], double[]) GetDatasets()
         {
             double[][] inputs = {
-                new double[] {2.75, 5.3},
-                new double[] {2.5, 5.3},
-                new double[] {2.5, 5.3},
-                new double[] {2.5, 5.3},
-                new double[] {2.5, 5.4},
-                new double[] {2.5, 5.6},
-                new double[] {2.5, 5.5},
-                new double[] {2.25, 5.5},
-                new double[] {2.25, 5.5},
-                new double[] {2.25, 5.6},
-                new double[] {2, 5.7},
-                new double[] {2, 5.9},
-                new double[] {2, 6},
-                new double[] {1.75, 5.9},
-                new double[] {1.75, 5.8},
-                new double[] {1.75, 6.1},
-                new double[] {1.75, 6.2},
-                new double[] {1.75, 6.1},
-                new double[] {1.75, 6.1},
-                new double[] {1.75, 6.1},
-                new double[] {1.75, 5.9},
-                new double[] {1.75, 6.2},
-                new double[] {1.75, 6.2},
-                new double[] {1.75, 6.1},
+                new double[] {471.4, 8},
+                new double[] {514.3, 20},
+                new double[] {612.9, 22},
+                new double[] {642.9, 24},
+                new double[] {651.4, 30},
+                new double[] {694.3, 36},
+                new double[] {771.4, 36},
+                new double[] {780, 38},
+                new double[] {771.4, 36},
+                new double[] {750, 38},
+                new double[] {835.7, 50},
+                new double[] {840, 54},
+                new double[] {784.3 ,58},
+                new double[] {814.3, 50},
+                new double[] {642.9, 48},
             };
             double[] outputs = {
-                 1464,
-                 1394,
-                 1357,
-                 1293,
-                 1256,
-                 1254,
-                 1234,
-                 1195,
-                 1159,
-                 1167,
-                 1130,
-                 1075,
-                 1047,
-                 965,
-                 943,
-                 958,
-                 971,
-                 949,
-                 884,
-                 866,
-                 876,
-                 822,
-                 704,
-                 719
+                360,
+                720,
+                1140,
+                1500,
+                1800,
+                2160,
+                2280,
+                2580,
+                2640,
+                2940,
+                3000,
+                3120,
+                3240,
+                2160,
+                2460
+
             };
 
             return (inputs, outputs);
@@ -104,8 +87,11 @@ namespace Bobskie_Regression
             regressionEquationOutput.Text = regressionEquation;
 
             // Print the intercept and coefficients to the console
-            textBox1.Text = string.Format("Intercept: {0}\r\nCoefficients: {1}",
-                                intercept, string.Join(",", coefficients));
+            //textBox1.Text = string.Format("Intercept: {0}\r\nCoefficients: {1}",
+            //                    intercept, string.Join(", ", coefficients));
+            label6.Text = ""+intercept;
+            label7.Text = ""+coefficients[0];
+            label8.Text = "" + coefficients[1];
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -132,7 +118,7 @@ namespace Bobskie_Regression
             double y = intercept + (coefficients[0] * x1) + (coefficients[1] * x2);
 
             // Display the result of the regression in the Label control
-            regressionOutput.Text = "y = " + y.ToString("N2");
+            reslabel.Text = "y = " + y.ToString("N2");
 
         }
     }

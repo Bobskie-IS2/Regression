@@ -19,3 +19,24 @@ C:\Users\kath\Desktop\Final\MultipleRegressionExample\obj\Debug\Bobskie_Regressi
 C:\Users\kath\Desktop\Final\MultipleRegressionExample\obj\Debug\Bobskie_Regression.csproj.CopyComplete
 C:\Users\kath\Desktop\Final\MultipleRegressionExample\obj\Debug\MultipleRegressionExample.exe
 C:\Users\kath\Desktop\Final\MultipleRegressionExample\obj\Debug\MultipleRegressionExample.pdb
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\bin\Debug\Accord.dll.config
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\bin\Debug\MultipleRegressionExample.exe.config
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\bin\Debug\MultipleRegressionExample.exe
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\bin\Debug\MultipleRegressionExample.pdb
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\bin\Debug\Accord.dll
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\bin\Debug\Accord.Math.Core.dll
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\bin\Debug\Accord.Math.dll
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\bin\Debug\Accord.Statistics.dll
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\bin\Debug\Accord.xml
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\bin\Debug\Accord.Math.xml
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\bin\Debug\Accord.Math.Core.xml
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\bin\Debug\Accord.Statistics.xml
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\obj\Debug\Bobskie_Regression.csproj.AssemblyReference.cache
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\obj\Debug\Bobskie_Regression.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\obj\Debug\Bobskie_Regression.Form1.resources
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\obj\Debug\MultipleRegressionExample.Properties.Resources.resources
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\obj\Debug\Bobskie_Regression.csproj.GenerateResource.cache
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\obj\Debug\Bobskie_Regression.csproj.CoreCompileInputs.cache
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\obj\Debug\Bobskie_Regression.csproj.CopyComplete
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\obj\Debug\MultipleRegressionExample.exe
+C:\Users\Bob Kyle\Documents\3rd Year\2nd Sem\CS346 - IS2\Regression\MultipleRegressionExample\obj\Debug\MultipleRegressionExample.pdb
